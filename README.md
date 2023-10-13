@@ -2,8 +2,7 @@
 
 ![image](https://github.com/juniordesouza/angular-game-store-dio/assets/62979168/9aee6f79-98b4-4e97-aee5-17d0a1643bcc)
 
-![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/juniordesouza/angular-game-store-dio/assets/62979168/dadfe93e-9d81-4589-9cae-1bc27f16e26a)
-
+![Vídeo sem título ‐ Feito com o Clipchamp (1)](https://github.com/juniordesouza/angular-game-store-dio/assets/62979168/e1142c84-4fe3-4ed5-b0fd-bfce78c28246)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
