@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+:root{
+    --color1: #d4cdc5;
+    --color2: #5b88a5;
+    --color3: #f4f4f2;
+    --color4: #191013;
+    --color5: #243a69;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(36,58,105,1) 56%, rgba(91,136,165,1) 100%);
+    color: var(--color3);
+}

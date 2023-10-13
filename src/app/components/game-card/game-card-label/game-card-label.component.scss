@@ -1,0 +1,13 @@
+.game-card-label__container{
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    bottom: 90px;
+    right: 0;
+    color: var(--color1);
+    padding: 15px 50px;
+    border-top-left-radius: 10px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    border-bottom-left-radius: 10px;
+}
