@@ -1,5 +1,8 @@
 # Newgamestore
 
+![image](https://github.com/juniordesouza/angular-game-store-dio/assets/62979168/9aee6f79-98b4-4e97-aee5-17d0a1643bcc)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
